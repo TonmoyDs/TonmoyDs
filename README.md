@@ -1,4 +1,5 @@
-<img href="https://media.licdn.com/dms/image/D5616AQGfQsVfZ6YDYg/profile-displaybackgroundimage-shrink_350_1400/0/1702322159318?e=1707955200&v=beta&t=JRF4YDprMR6jKS2JRAeBiX6ILA6yr8Afxo1NB4kP4FI">
+![](https://media.licdn.com/dms/image/D5616AQGfQsVfZ6YDYg/profile-displaybackgroundimage-shrink_350_1400/0/1702322159318?e=1707955200&v=beta&t=JRF4YDprMR6jKS2JRAeBiX6ILA6yr8Afxo1NB4kP4FI)
+
 ### Hi, I am Tonmoy Das
 #### Web Designer
 I am a web designer, and I’m very passionate and dedicated to my work. With 2 years experience as a professional a website designer, I have acquired the skills and knowledge.
